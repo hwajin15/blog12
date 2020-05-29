@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb545e2f-2b8e-4d15-b21b-5c717a19ed20" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/co/fastcampus/eatgo/model/UserResponseModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/co/fastcampus/eatgo/repository/UserEntiRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/co/fastcampus/eatgo/service/DataService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/co/fastcampus/eatgo/service/DataServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/co/fastcampus/eatgo/shared/UserDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kr/co/fastcampus/eatgo/EatgoAdminApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kr/co/fastcampus/eatgo/EatgoAdminApiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kr/co/fastcampus/eatgo/application/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kr/co/fastcampus/eatgo/application/CategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kr/co/fastcampus/eatgo/application/MenuItemService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kr/co/fastcampus/eatgo/application/RegionService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kr/co/fastcampus/eatgo/application/RestaurantService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kr/co/fastcampus/eatgo/application/ReviewService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kr/co/fastcampus/eatgo/application/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kr/co/fastcampus/eatgo/interfaces/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kr/co/fastcampus/eatgo/interfaces/CategoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kr/co/fastcampus/eatgo/interfaces/MenuItemController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kr/co/fastcampus/eatgo/interfaces/RegionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kr/co/fastcampus/eatgo/interfaces/RestaurantController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kr/co/fastcampus/eatgo/interfaces/RestaurantErrorAdvice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kr/co/fastcampus/eatgo/interfaces/ReviewController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kr/co/fastcampus/eatgo/interfaces/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kr/co/fastcampus/eatgo/interfaces/WelcomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/kr/co/fastcampus/eatgo/application/CategoryServiceTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/kr/co/fastcampus/eatgo/application/MenuItemServiceTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/kr/co/fastcampus/eatgo/application/RegionServiceTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/kr/co/fastcampus/eatgo/application/RestaurantServiceTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/kr/co/fastcampus/eatgo/application/ReviewServiceTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/kr/co/fastcampus/eatgo/application/UserServiceTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/kr/co/fastcampus/eatgo/interfaces/CategoryControllerTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/kr/co/fastcampus/eatgo/interfaces/MenuItemControllerTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/kr/co/fastcampus/eatgo/interfaces/RegionControllerTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/kr/co/fastcampus/eatgo/interfaces/RestaurantControllerTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/kr/co/fastcampus/eatgo/interfaces/ReviewControllerTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/kr/co/fastcampus/eatgo/interfaces/UserControllerTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eatgo-customer-api/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../eatgo-customer-api/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cZcnekYy6TGs2q5DEw19iXLG5f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb545e2f-2b8e-4d15-b21b-5c717a19ed20" name="Default Changelist" comment="" />
+      <created>1590739723419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590739723419</updated>
+      <workItem from="1590739726493" duration="440000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
